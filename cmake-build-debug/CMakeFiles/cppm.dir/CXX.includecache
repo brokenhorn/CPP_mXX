@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vmaricru/Desktop/cppm/m2/ex02/Fixed.cpp
+Fixed.hpp
+/Users/vmaricru/Desktop/cppm/m2/ex02/Fixed.hpp
+
+/Users/vmaricru/Desktop/cppm/m2/ex02/Fixed.hpp
+string
+-
+iostream
+-
+fstream
+/Users/vmaricru/Desktop/cppm/m2/ex02/fstream
+iomanip
+-
+cmath
+-
+

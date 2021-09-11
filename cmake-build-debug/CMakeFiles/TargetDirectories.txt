@@ -1,0 +1,3 @@
+/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir
