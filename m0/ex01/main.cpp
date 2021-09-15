@@ -22,7 +22,7 @@ int main()
 	int check;
 
 	ListN = 0;
-	while (1)
+	while (!std::cin.eof())
 	{
 		std::cout << "Type ADD, SEARCH or EXIT\n";
 		std::cin >> comd;

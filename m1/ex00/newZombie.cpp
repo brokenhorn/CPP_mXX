@@ -7,6 +7,7 @@
 {
 	Zombie* nz;
 	nz = new Zombie(name);
+	nz->announce();
 	return nz;
 }
 

@@ -3,4 +3,4 @@ project(cppm)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cppm  m2/ex02/main.cpp m2/ex02/Fixed.cpp m2/ex02/Fixed.hpp)
+add_executable(cppm    m3/ex03/DiamondTrap.cpp m3/ex03/DiamondTrap.hpp )

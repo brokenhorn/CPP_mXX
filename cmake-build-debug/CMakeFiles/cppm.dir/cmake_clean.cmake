@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cppm.dir/m2/ex02/Fixed.cpp.o"
-  "CMakeFiles/cppm.dir/m2/ex02/main.cpp.o"
+  "CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o"
   "cppm"
   "cppm.pdb"
 )

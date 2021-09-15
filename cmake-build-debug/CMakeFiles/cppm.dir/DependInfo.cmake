@@ -8,8 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/vmaricru/Desktop/cppm/m2/ex02/Fixed.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m2/ex02/Fixed.cpp.o"
-  "/Users/vmaricru/Desktop/cppm/m2/ex02/main.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m2/ex02/main.cpp.o"
+  "/Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

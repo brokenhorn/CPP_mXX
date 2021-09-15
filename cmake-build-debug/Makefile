@@ -129,53 +129,29 @@ cppm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/build
 .PHONY : cppm/fast
 
-m2/ex02/Fixed.o: m2/ex02/Fixed.cpp.o
-.PHONY : m2/ex02/Fixed.o
+m3/ex03/DiamondTrap.o: m3/ex03/DiamondTrap.cpp.o
+.PHONY : m3/ex03/DiamondTrap.o
 
 # target to build an object file
-m2/ex02/Fixed.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/Fixed.cpp.o
-.PHONY : m2/ex02/Fixed.cpp.o
+m3/ex03/DiamondTrap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o
+.PHONY : m3/ex03/DiamondTrap.cpp.o
 
-m2/ex02/Fixed.i: m2/ex02/Fixed.cpp.i
-.PHONY : m2/ex02/Fixed.i
-
-# target to preprocess a source file
-m2/ex02/Fixed.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/Fixed.cpp.i
-.PHONY : m2/ex02/Fixed.cpp.i
-
-m2/ex02/Fixed.s: m2/ex02/Fixed.cpp.s
-.PHONY : m2/ex02/Fixed.s
-
-# target to generate assembly for a file
-m2/ex02/Fixed.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/Fixed.cpp.s
-.PHONY : m2/ex02/Fixed.cpp.s
-
-m2/ex02/main.o: m2/ex02/main.cpp.o
-.PHONY : m2/ex02/main.o
-
-# target to build an object file
-m2/ex02/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/main.cpp.o
-.PHONY : m2/ex02/main.cpp.o
-
-m2/ex02/main.i: m2/ex02/main.cpp.i
-.PHONY : m2/ex02/main.i
+m3/ex03/DiamondTrap.i: m3/ex03/DiamondTrap.cpp.i
+.PHONY : m3/ex03/DiamondTrap.i
 
 # target to preprocess a source file
-m2/ex02/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/main.cpp.i
-.PHONY : m2/ex02/main.cpp.i
+m3/ex03/DiamondTrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.i
+.PHONY : m3/ex03/DiamondTrap.cpp.i
 
-m2/ex02/main.s: m2/ex02/main.cpp.s
-.PHONY : m2/ex02/main.s
+m3/ex03/DiamondTrap.s: m3/ex03/DiamondTrap.cpp.s
+.PHONY : m3/ex03/DiamondTrap.s
 
 # target to generate assembly for a file
-m2/ex02/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m2/ex02/main.cpp.s
-.PHONY : m2/ex02/main.cpp.s
+m3/ex03/DiamondTrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.s
+.PHONY : m3/ex03/DiamondTrap.cpp.s
 
 # Help Target
 help:
@@ -186,12 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cppm"
-	@echo "... m2/ex02/Fixed.o"
-	@echo "... m2/ex02/Fixed.i"
-	@echo "... m2/ex02/Fixed.s"
-	@echo "... m2/ex02/main.o"
-	@echo "... m2/ex02/main.i"
-	@echo "... m2/ex02/main.s"
+	@echo "... m3/ex03/DiamondTrap.o"
+	@echo "... m3/ex03/DiamondTrap.i"
+	@echo "... m3/ex03/DiamondTrap.s"
 .PHONY : help
 
 
