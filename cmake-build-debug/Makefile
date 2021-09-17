@@ -129,29 +129,245 @@ cppm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/build
 .PHONY : cppm/fast
 
-m3/ex03/DiamondTrap.o: m3/ex03/DiamondTrap.cpp.o
-.PHONY : m3/ex03/DiamondTrap.o
+m4/ex03/AMateria.o: m4/ex03/AMateria.cpp.o
+.PHONY : m4/ex03/AMateria.o
 
 # target to build an object file
-m3/ex03/DiamondTrap.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o
-.PHONY : m3/ex03/DiamondTrap.cpp.o
+m4/ex03/AMateria.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o
+.PHONY : m4/ex03/AMateria.cpp.o
 
-m3/ex03/DiamondTrap.i: m3/ex03/DiamondTrap.cpp.i
-.PHONY : m3/ex03/DiamondTrap.i
+m4/ex03/AMateria.i: m4/ex03/AMateria.cpp.i
+.PHONY : m4/ex03/AMateria.i
 
 # target to preprocess a source file
-m3/ex03/DiamondTrap.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.i
-.PHONY : m3/ex03/DiamondTrap.cpp.i
+m4/ex03/AMateria.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.i
+.PHONY : m4/ex03/AMateria.cpp.i
 
-m3/ex03/DiamondTrap.s: m3/ex03/DiamondTrap.cpp.s
-.PHONY : m3/ex03/DiamondTrap.s
+m4/ex03/AMateria.s: m4/ex03/AMateria.cpp.s
+.PHONY : m4/ex03/AMateria.s
 
 # target to generate assembly for a file
-m3/ex03/DiamondTrap.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.s
-.PHONY : m3/ex03/DiamondTrap.cpp.s
+m4/ex03/AMateria.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.s
+.PHONY : m4/ex03/AMateria.cpp.s
+
+m4/ex03/Character.o: m4/ex03/Character.cpp.o
+.PHONY : m4/ex03/Character.o
+
+# target to build an object file
+m4/ex03/Character.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o
+.PHONY : m4/ex03/Character.cpp.o
+
+m4/ex03/Character.i: m4/ex03/Character.cpp.i
+.PHONY : m4/ex03/Character.i
+
+# target to preprocess a source file
+m4/ex03/Character.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Character.cpp.i
+.PHONY : m4/ex03/Character.cpp.i
+
+m4/ex03/Character.s: m4/ex03/Character.cpp.s
+.PHONY : m4/ex03/Character.s
+
+# target to generate assembly for a file
+m4/ex03/Character.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Character.cpp.s
+.PHONY : m4/ex03/Character.cpp.s
+
+m4/ex03/Cure.o: m4/ex03/Cure.cpp.o
+.PHONY : m4/ex03/Cure.o
+
+# target to build an object file
+m4/ex03/Cure.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o
+.PHONY : m4/ex03/Cure.cpp.o
+
+m4/ex03/Cure.i: m4/ex03/Cure.cpp.i
+.PHONY : m4/ex03/Cure.i
+
+# target to preprocess a source file
+m4/ex03/Cure.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.i
+.PHONY : m4/ex03/Cure.cpp.i
+
+m4/ex03/Cure.s: m4/ex03/Cure.cpp.s
+.PHONY : m4/ex03/Cure.s
+
+# target to generate assembly for a file
+m4/ex03/Cure.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.s
+.PHONY : m4/ex03/Cure.cpp.s
+
+m4/ex03/ICharacter.o: m4/ex03/ICharacter.cpp.o
+.PHONY : m4/ex03/ICharacter.o
+
+# target to build an object file
+m4/ex03/ICharacter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o
+.PHONY : m4/ex03/ICharacter.cpp.o
+
+m4/ex03/ICharacter.i: m4/ex03/ICharacter.cpp.i
+.PHONY : m4/ex03/ICharacter.i
+
+# target to preprocess a source file
+m4/ex03/ICharacter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.i
+.PHONY : m4/ex03/ICharacter.cpp.i
+
+m4/ex03/ICharacter.s: m4/ex03/ICharacter.cpp.s
+.PHONY : m4/ex03/ICharacter.s
+
+# target to generate assembly for a file
+m4/ex03/ICharacter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.s
+.PHONY : m4/ex03/ICharacter.cpp.s
+
+m4/ex03/IMateriaSource.o: m4/ex03/IMateriaSource.cpp.o
+.PHONY : m4/ex03/IMateriaSource.o
+
+# target to build an object file
+m4/ex03/IMateriaSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o
+.PHONY : m4/ex03/IMateriaSource.cpp.o
+
+m4/ex03/IMateriaSource.i: m4/ex03/IMateriaSource.cpp.i
+.PHONY : m4/ex03/IMateriaSource.i
+
+# target to preprocess a source file
+m4/ex03/IMateriaSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.i
+.PHONY : m4/ex03/IMateriaSource.cpp.i
+
+m4/ex03/IMateriaSource.s: m4/ex03/IMateriaSource.cpp.s
+.PHONY : m4/ex03/IMateriaSource.s
+
+# target to generate assembly for a file
+m4/ex03/IMateriaSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.s
+.PHONY : m4/ex03/IMateriaSource.cpp.s
+
+m4/ex03/Ice.o: m4/ex03/Ice.cpp.o
+.PHONY : m4/ex03/Ice.o
+
+# target to build an object file
+m4/ex03/Ice.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o
+.PHONY : m4/ex03/Ice.cpp.o
+
+m4/ex03/Ice.i: m4/ex03/Ice.cpp.i
+.PHONY : m4/ex03/Ice.i
+
+# target to preprocess a source file
+m4/ex03/Ice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.i
+.PHONY : m4/ex03/Ice.cpp.i
+
+m4/ex03/Ice.s: m4/ex03/Ice.cpp.s
+.PHONY : m4/ex03/Ice.s
+
+# target to generate assembly for a file
+m4/ex03/Ice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.s
+.PHONY : m4/ex03/Ice.cpp.s
+
+m4/ex03/MateriaSource.o: m4/ex03/MateriaSource.cpp.o
+.PHONY : m4/ex03/MateriaSource.o
+
+# target to build an object file
+m4/ex03/MateriaSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o
+.PHONY : m4/ex03/MateriaSource.cpp.o
+
+m4/ex03/MateriaSource.i: m4/ex03/MateriaSource.cpp.i
+.PHONY : m4/ex03/MateriaSource.i
+
+# target to preprocess a source file
+m4/ex03/MateriaSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.i
+.PHONY : m4/ex03/MateriaSource.cpp.i
+
+m4/ex03/MateriaSource.s: m4/ex03/MateriaSource.cpp.s
+.PHONY : m4/ex03/MateriaSource.s
+
+# target to generate assembly for a file
+m4/ex03/MateriaSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.s
+.PHONY : m4/ex03/MateriaSource.cpp.s
+
+m4/ex03/main.o: m4/ex03/main.cpp.o
+.PHONY : m4/ex03/main.o
+
+# target to build an object file
+m4/ex03/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/main.cpp.o
+.PHONY : m4/ex03/main.cpp.o
+
+m4/ex03/main.i: m4/ex03/main.cpp.i
+.PHONY : m4/ex03/main.i
+
+# target to preprocess a source file
+m4/ex03/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/main.cpp.i
+.PHONY : m4/ex03/main.cpp.i
+
+m4/ex03/main.s: m4/ex03/main.cpp.s
+.PHONY : m4/ex03/main.s
+
+# target to generate assembly for a file
+m4/ex03/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m4/ex03/main.cpp.s
+.PHONY : m4/ex03/main.cpp.s
+
+m5/ex00/Bureaucrat.o: m5/ex00/Bureaucrat.cpp.o
+.PHONY : m5/ex00/Bureaucrat.o
+
+# target to build an object file
+m5/ex00/Bureaucrat.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o
+.PHONY : m5/ex00/Bureaucrat.cpp.o
+
+m5/ex00/Bureaucrat.i: m5/ex00/Bureaucrat.cpp.i
+.PHONY : m5/ex00/Bureaucrat.i
+
+# target to preprocess a source file
+m5/ex00/Bureaucrat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.i
+.PHONY : m5/ex00/Bureaucrat.cpp.i
+
+m5/ex00/Bureaucrat.s: m5/ex00/Bureaucrat.cpp.s
+.PHONY : m5/ex00/Bureaucrat.s
+
+# target to generate assembly for a file
+m5/ex00/Bureaucrat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.s
+.PHONY : m5/ex00/Bureaucrat.cpp.s
+
+m5/ex00/main.o: m5/ex00/main.cpp.o
+.PHONY : m5/ex00/main.o
+
+# target to build an object file
+m5/ex00/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/main.cpp.o
+.PHONY : m5/ex00/main.cpp.o
+
+m5/ex00/main.i: m5/ex00/main.cpp.i
+.PHONY : m5/ex00/main.i
+
+# target to preprocess a source file
+m5/ex00/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/main.cpp.i
+.PHONY : m5/ex00/main.cpp.i
+
+m5/ex00/main.s: m5/ex00/main.cpp.s
+.PHONY : m5/ex00/main.s
+
+# target to generate assembly for a file
+m5/ex00/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m5/ex00/main.cpp.s
+.PHONY : m5/ex00/main.cpp.s
 
 # Help Target
 help:
@@ -162,9 +378,36 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cppm"
-	@echo "... m3/ex03/DiamondTrap.o"
-	@echo "... m3/ex03/DiamondTrap.i"
-	@echo "... m3/ex03/DiamondTrap.s"
+	@echo "... m4/ex03/AMateria.o"
+	@echo "... m4/ex03/AMateria.i"
+	@echo "... m4/ex03/AMateria.s"
+	@echo "... m4/ex03/Character.o"
+	@echo "... m4/ex03/Character.i"
+	@echo "... m4/ex03/Character.s"
+	@echo "... m4/ex03/Cure.o"
+	@echo "... m4/ex03/Cure.i"
+	@echo "... m4/ex03/Cure.s"
+	@echo "... m4/ex03/ICharacter.o"
+	@echo "... m4/ex03/ICharacter.i"
+	@echo "... m4/ex03/ICharacter.s"
+	@echo "... m4/ex03/IMateriaSource.o"
+	@echo "... m4/ex03/IMateriaSource.i"
+	@echo "... m4/ex03/IMateriaSource.s"
+	@echo "... m4/ex03/Ice.o"
+	@echo "... m4/ex03/Ice.i"
+	@echo "... m4/ex03/Ice.s"
+	@echo "... m4/ex03/MateriaSource.o"
+	@echo "... m4/ex03/MateriaSource.i"
+	@echo "... m4/ex03/MateriaSource.s"
+	@echo "... m4/ex03/main.o"
+	@echo "... m4/ex03/main.i"
+	@echo "... m4/ex03/main.s"
+	@echo "... m5/ex00/Bureaucrat.o"
+	@echo "... m5/ex00/Bureaucrat.i"
+	@echo "... m5/ex00/Bureaucrat.s"
+	@echo "... m5/ex00/main.o"
+	@echo "... m5/ex00/main.i"
+	@echo "... m5/ex00/main.s"
 .PHONY : help
 
 

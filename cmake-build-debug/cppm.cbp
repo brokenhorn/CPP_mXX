@@ -80,10 +80,58 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.cpp">
 			<Option target="cppm"/>
 		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.hpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Character.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Character.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Cure.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Cure.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Ice.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/Ice.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m4/ex03/main.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex00/Bureaucrat.cpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex00/Bureaucrat.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex00/main.cpp">
 			<Option target="cppm"/>
 		</Unit>
 		<Unit filename="/Users/vmaricru/Desktop/cppm/CMakeLists.txt">

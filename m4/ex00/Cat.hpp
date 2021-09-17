@@ -5,8 +5,17 @@
 #ifndef CPPM_CAT_HPP
 #define CPPM_CAT_HPP
 
+#include "Animal.hpp"
 
-class Cat {
+class Cat :  public  Animal
+{
+public:
+	Cat();
+	Cat(std::string type);
+	~Cat();
+	Cat(Cat const & src);
+
+	Cat & operator=(Cat const &src);
 
 };
 

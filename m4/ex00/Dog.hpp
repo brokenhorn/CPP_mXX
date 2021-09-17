@@ -5,9 +5,17 @@
 #ifndef CPPM_DOG_HPP
 #define CPPM_DOG_HPP
 
+#include "Animal.hpp"
 
-class Dog {
+class Dog: public Animal
+{
+public:
+	Dog();
+	Dog(std::string type);
+	~Dog();
+	Dog(Dog const & src);
 
+	Dog &operator=(Dog const & src);
 };
 
 

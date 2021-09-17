@@ -66,30 +66,165 @@ include CMakeFiles/cppm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cppm.dir/flags.make
 
-CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o: ../m3/ex03/DiamondTrap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o -c /Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.cpp
+CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o: ../m4/ex03/AMateria.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.cpp
 
-CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.cpp > CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.i
+CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.cpp > CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.i
 
-CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m3/ex03/DiamondTrap.cpp -o CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.s
+CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.cpp -o CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o: ../m4/ex03/ICharacter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.cpp > CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.cpp -o CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o: ../m4/ex03/IMateriaSource.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.cpp > CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.cpp -o CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o: ../m4/ex03/Ice.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/Ice.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/Ice.cpp > CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/Ice.cpp -o CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o: ../m4/ex03/Cure.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/Cure.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/Cure.cpp > CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/Cure.cpp -o CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o: ../m4/ex03/MateriaSource.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.cpp > CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.cpp -o CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o: ../m4/ex03/Character.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/Character.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/Character.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/Character.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/Character.cpp > CMakeFiles/cppm.dir/m4/ex03/Character.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/Character.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/Character.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/Character.cpp -o CMakeFiles/cppm.dir/m4/ex03/Character.cpp.s
+
+CMakeFiles/cppm.dir/m4/ex03/main.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m4/ex03/main.cpp.o: ../m4/ex03/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cppm.dir/m4/ex03/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m4/ex03/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m4/ex03/main.cpp
+
+CMakeFiles/cppm.dir/m4/ex03/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m4/ex03/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m4/ex03/main.cpp > CMakeFiles/cppm.dir/m4/ex03/main.cpp.i
+
+CMakeFiles/cppm.dir/m4/ex03/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m4/ex03/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m4/ex03/main.cpp -o CMakeFiles/cppm.dir/m4/ex03/main.cpp.s
+
+CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o: ../m5/ex00/Bureaucrat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex00/Bureaucrat.cpp
+
+CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex00/Bureaucrat.cpp > CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.i
+
+CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex00/Bureaucrat.cpp -o CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.s
+
+CMakeFiles/cppm.dir/m5/ex00/main.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m5/ex00/main.cpp.o: ../m5/ex00/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cppm.dir/m5/ex00/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex00/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex00/main.cpp
+
+CMakeFiles/cppm.dir/m5/ex00/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex00/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex00/main.cpp > CMakeFiles/cppm.dir/m5/ex00/main.cpp.i
+
+CMakeFiles/cppm.dir/m5/ex00/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex00/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex00/main.cpp -o CMakeFiles/cppm.dir/m5/ex00/main.cpp.s
 
 # Object files for target cppm
 cppm_OBJECTS = \
-"CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o"
+"CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o" \
+"CMakeFiles/cppm.dir/m4/ex03/main.cpp.o" \
+"CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o" \
+"CMakeFiles/cppm.dir/m5/ex00/main.cpp.o"
 
 # External object files for target cppm
 cppm_EXTERNAL_OBJECTS =
 
-cppm: CMakeFiles/cppm.dir/m3/ex03/DiamondTrap.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/AMateria.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/ICharacter.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/IMateriaSource.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/Ice.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/Cure.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/MateriaSource.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/Character.cpp.o
+cppm: CMakeFiles/cppm.dir/m4/ex03/main.cpp.o
+cppm: CMakeFiles/cppm.dir/m5/ex00/Bureaucrat.cpp.o
+cppm: CMakeFiles/cppm.dir/m5/ex00/main.cpp.o
 cppm: CMakeFiles/cppm.dir/build.make
 cppm: CMakeFiles/cppm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cppm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable cppm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cppm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
