@@ -3,4 +3,4 @@ project(cppm)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cppm    m4/ex03/AMateria.cpp m4/ex03/AMateria.hpp m4/ex03/ICharacter.cpp m4/ex03/ICharacter.hpp m4/ex03/IMateriaSource.cpp m4/ex03/IMateriaSource.hpp m4/ex03/Ice.cpp m4/ex03/Ice.hpp m4/ex03/Cure.cpp m4/ex03/Cure.hpp m4/ex03/MateriaSource.cpp m4/ex03/MateriaSource.hpp m4/ex03/Character.cpp m4/ex03/Character.hpp m4/ex03/main.cpp m5/ex00/Bureaucrat.cpp m5/ex00/Bureaucrat.hpp m5/ex00/main.cpp)
+add_executable(cppm  m5/ex03/main.cpp    m5/ex03/Bureaucrat.cpp m5/ex03/Bureaucrat.hpp  m5/ex03/Form.cpp m5/ex03/Form.hpp m5/ex03/ShrubberyCreationForm.cpp m5/ex03/ShrubberyCreationForm.hpp m5/ex03/RobotomyRequestForm.cpp m5/ex03/RobotomyRequestForm.hpp m5/ex03/PresidentialPardonForm.cpp m5/ex03/PresidentialPardonForm.hpp m5/ex03/Intern.cpp m5/ex03/Intern.hpp)

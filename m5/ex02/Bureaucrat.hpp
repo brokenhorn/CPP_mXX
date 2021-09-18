@@ -6,6 +6,9 @@
 #include <iostream>
 #include "fstream"
 #include <iomanip>
+#include "Form.hpp"
+
+class Form;
 
 class Bureaucrat
 {
@@ -28,6 +31,10 @@ public:
 	void incrementGrade();
 	void decrementGrade();
 
+	void signForm(std::string name, bool sign);
+
+
+
 	class _GradeTooHighException: public std::exception
 	{
 	public:
@@ -38,6 +45,7 @@ public:
 		virtual const char* what() const throw();
 	};
 
+	void executeForm(Form const &form);
 };
 
 std::ostream & operator<<(std::ostream & o, Bureaucrat const & i);

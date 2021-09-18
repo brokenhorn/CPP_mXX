@@ -28,6 +28,8 @@ public:
 	void incrementGrade();
 	void decrementGrade();
 
+	void signForm(std::string name, bool sign);
+
 	class _GradeTooHighException: public std::exception
 	{
 	public:

@@ -1,4 +1,4 @@
-#ifndef CPPM_CLAPTRAP_HPP
+	#ifndef CPPM_CLAPTRAP_HPP
 #define CPPM_CLAPTRAP_HPP
 
 #include <string>
@@ -21,7 +21,7 @@ public:
 
 	ClapTrap & operator =(ClapTrap const & i);
 
-	virtual void attack(std::string const & target);
+	 virtual void attack(std::string const & target);
 	 void takeDamage(unsigned int amount);
 	 void beRepaired(unsigned int amount);
 };

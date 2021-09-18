@@ -6,47 +6,61 @@
 
 #IncludeRegexTransform: 
 
-/Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.hpp
 string
 -
 iostream
 -
 fstream
-/Users/vmaricru/Desktop/cppm/m4/ex03/fstream
+/Users/vmaricru/Desktop/cppm/m5/ex03/fstream
 iomanip
 -
-ICharacter.hpp
-/Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.hpp
+Form.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
 
-/Users/vmaricru/Desktop/cppm/m4/ex03/ICharacter.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
+Bureaucrat.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.hpp
+
+/Users/vmaricru/Desktop/cppm/m5/ex03/Intern.hpp
 string
 -
 iostream
 -
 fstream
-/Users/vmaricru/Desktop/cppm/m4/ex03/fstream
+/Users/vmaricru/Desktop/cppm/m5/ex03/fstream
 iomanip
 -
+Form.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
+ShrubberyCreationForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.hpp
+RobotomyRequestForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.hpp
+PresidentialPardonForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.hpp
 
-/Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.hpp
-string
--
+/Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.hpp
+Form.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
 
-/Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.cpp
-MateriaSource.hpp
-/Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.hpp
+Form.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
 
-/Users/vmaricru/Desktop/cppm/m4/ex03/MateriaSource.hpp
-IMateriaSource.hpp
-/Users/vmaricru/Desktop/cppm/m4/ex03/IMateriaSource.hpp
-string
--
-iostream
--
-fstream
-/Users/vmaricru/Desktop/cppm/m4/ex03/fstream
-iomanip
--
-AMateria.hpp
-/Users/vmaricru/Desktop/cppm/m4/ex03/AMateria.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.hpp
+Form.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp
+
+/Users/vmaricru/Desktop/cppm/m5/ex03/main.cpp
+Bureaucrat.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.hpp
+ShrubberyCreationForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.hpp
+PresidentialPardonForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.hpp
+RobotomyRequestForm.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.hpp
+Intern.hpp
+/Users/vmaricru/Desktop/cppm/m5/ex03/Intern.hpp
 
