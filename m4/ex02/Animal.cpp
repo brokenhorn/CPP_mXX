@@ -27,7 +27,7 @@ Animal &Animal::operator=(__unused const Animal & src)
 	std::cout << "Assigment operator(Animal) is called" << std::endl;
 	if (this != &src)
 	{
-		Animal::operator=(src);
+		this->type = src.type;
 	}
 	return *this;
 }

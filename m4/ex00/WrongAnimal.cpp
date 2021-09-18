@@ -34,7 +34,7 @@ WrongAnimal &WrongAnimal::operator=(__unused const WrongAnimal & src)
 
 void WrongAnimal::makeSound() const
 {
-	std::cout << "[Wrong Sound of a " << this->type << " ]" << std::endl;
+	std::cout << "[Wrong(Animal) Sound of a " << this->type << " ]" << std::endl;
 }
 
 std::string WrongAnimal::getType() const

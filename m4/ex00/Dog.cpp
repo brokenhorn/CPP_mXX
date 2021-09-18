@@ -22,6 +22,11 @@ Dog::Dog(const Dog & src)
 	*this = src;
 }
 
+void Dog::makeSound() const
+{
+	std::cout << "[Sound of a " << this->type << " ]" << std::endl;
+}
+
 Dog &Dog::operator=(__unused const Dog & src)
 {
 	std::cout << "Assigment operator(Dog) is called" << std::endl;

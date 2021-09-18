@@ -11,7 +11,7 @@
 #include <iomanip>
 
 class Animal {
-private:
+protected:
 	std::string type;
 public:
 	Animal();
@@ -21,7 +21,7 @@ public:
 
 	Animal & operator=(Animal const & src);
 
-	void makeSound() const;
+	virtual void makeSound() const;
 	std::string getType() const;
 };
 

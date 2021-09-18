@@ -29,7 +29,7 @@ Dog &Dog::operator=(__unused const Dog & src)
 	std::cout << "Assigment operator(Dog) is called" << std::endl;
 	if (this != &src)
 	{
-		*_brain = *src._brain;
+		_brain = new Brain();
 		Animal::operator=(src);
 	}
 	return *this;

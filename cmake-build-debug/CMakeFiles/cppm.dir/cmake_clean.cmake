@@ -1,11 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o"
-  "CMakeFiles/cppm.dir/m5/ex03/main.cpp.o"
+  "CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
+  "CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o"
+  "CMakeFiles/cppm.dir/m6/ex00/main.cpp.o"
   "cppm"
   "cppm.pdb"
 )

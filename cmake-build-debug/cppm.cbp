@@ -80,43 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp">
 			<Option target="cppm"/>
 		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.hpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp">
 			<Option target="cppm"/>
 		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Form.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Form.hpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Intern.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/Intern.hpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.hpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.hpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.hpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m5/ex03/main.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp">
 			<Option target="cppm"/>
 		</Unit>
 		<Unit filename="/Users/vmaricru/Desktop/cppm/CMakeLists.txt">

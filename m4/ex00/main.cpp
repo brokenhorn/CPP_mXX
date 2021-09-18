@@ -19,9 +19,4 @@ int main()
 	z->makeSound();
 	x->makeSound();
 
-	delete meta;
-	delete j;
-	delete i;
-	delete z;
-	delete x;
 }

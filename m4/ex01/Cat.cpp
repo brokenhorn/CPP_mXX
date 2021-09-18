@@ -30,8 +30,13 @@ Cat &Cat::operator=(__unused const Cat & src)
 	std::cout << "Assigment operator(Cat) is called" << std::endl;
 	if (this != &src)
 	{
-		*_brain = *src._brain;
+		_brain = new Brain();
 		Animal::operator=(src);
 	}
 	return *this;
+}
+
+void Cat::makeSound() const
+{
+	std::cout << "[Sound of a " << this->type << " ]" << std::endl;
 }

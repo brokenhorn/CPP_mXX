@@ -17,5 +17,12 @@ int main()
 		animal[i]->makeSound();
 		delete animal[i];
 	}
+	Dog *src = new Dog();
+	Dog *tmp = new Dog(*src);
+	delete tmp;
+	delete src;
+	//delete src;
+	//delete tmp;
+	return 1;
 
 }

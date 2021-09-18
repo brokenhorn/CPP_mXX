@@ -27,14 +27,14 @@ Animal &Animal::operator=(__unused const Animal & src)
 	std::cout << "Assigment operator(Animal) is called" << std::endl;
 	if (this != &src)
 	{
-		Animal::operator=(src);
+		this->type = src.type;
 	}
 	return *this;
 }
 
 void Animal::makeSound() const
 {
-	std::cout << "[Sound of a " << this->type << " ]" << std::endl;
+	std::cout << "[Sound(Animal) of a " << this->type << " ]" << std::endl;
 }
 
 std::string Animal::getType() const

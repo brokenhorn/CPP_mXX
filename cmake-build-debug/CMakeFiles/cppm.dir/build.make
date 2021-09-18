@@ -66,120 +66,60 @@ include CMakeFiles/cppm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cppm.dir/flags.make
 
-CMakeFiles/cppm.dir/m5/ex03/main.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/main.cpp.o: ../m5/ex03/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/main.cpp
+CMakeFiles/cppm.dir/m6/ex00/main.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m6/ex00/main.cpp.o: ../m6/ex00/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp
 
-CMakeFiles/cppm.dir/m5/ex03/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/main.cpp > CMakeFiles/cppm.dir/m5/ex03/main.cpp.i
+CMakeFiles/cppm.dir/m6/ex00/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp > CMakeFiles/cppm.dir/m6/ex00/main.cpp.i
 
-CMakeFiles/cppm.dir/m5/ex03/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/main.cpp -o CMakeFiles/cppm.dir/m5/ex03/main.cpp.s
+CMakeFiles/cppm.dir/m6/ex00/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp -o CMakeFiles/cppm.dir/m6/ex00/main.cpp.s
 
-CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o: ../m5/ex03/Bureaucrat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.cpp
+CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o: ../m6/ex00/define_argv.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp
 
-CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.cpp > CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.i
+CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp > CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i
 
-CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/Bureaucrat.cpp -o CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.s
+CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp -o CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s
 
-CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o: ../m5/ex03/Form.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/Form.cpp
+CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o: ../m6/ex00/convert.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp
 
-CMakeFiles/cppm.dir/m5/ex03/Form.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/Form.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/Form.cpp > CMakeFiles/cppm.dir/m5/ex03/Form.cpp.i
+CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp > CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i
 
-CMakeFiles/cppm.dir/m5/ex03/Form.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/Form.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/Form.cpp -o CMakeFiles/cppm.dir/m5/ex03/Form.cpp.s
-
-CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o: ../m5/ex03/ShrubberyCreationForm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.cpp
-
-CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.cpp > CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.i
-
-CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/ShrubberyCreationForm.cpp -o CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.s
-
-CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o: ../m5/ex03/RobotomyRequestForm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.cpp
-
-CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.cpp > CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.i
-
-CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/RobotomyRequestForm.cpp -o CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.s
-
-CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o: ../m5/ex03/PresidentialPardonForm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.cpp
-
-CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.cpp > CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.i
-
-CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/PresidentialPardonForm.cpp -o CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.s
-
-CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o: ../m5/ex03/Intern.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o -c /Users/vmaricru/Desktop/cppm/m5/ex03/Intern.cpp
-
-CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m5/ex03/Intern.cpp > CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.i
-
-CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m5/ex03/Intern.cpp -o CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.s
+CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp -o CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s
 
 # Object files for target cppm
 cppm_OBJECTS = \
-"CMakeFiles/cppm.dir/m5/ex03/main.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o" \
-"CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o"
+"CMakeFiles/cppm.dir/m6/ex00/main.cpp.o" \
+"CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o" \
+"CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
 
 # External object files for target cppm
 cppm_EXTERNAL_OBJECTS =
 
-cppm: CMakeFiles/cppm.dir/m5/ex03/main.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/Bureaucrat.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/Form.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/ShrubberyCreationForm.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/RobotomyRequestForm.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/PresidentialPardonForm.cpp.o
-cppm: CMakeFiles/cppm.dir/m5/ex03/Intern.cpp.o
+cppm: CMakeFiles/cppm.dir/m6/ex00/main.cpp.o
+cppm: CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o
+cppm: CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o
 cppm: CMakeFiles/cppm.dir/build.make
 cppm: CMakeFiles/cppm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable cppm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable cppm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cppm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -23,6 +23,11 @@ Cat::Cat(const Cat & src)
 	*this = src;
 }
 
+void Cat::makeSound() const
+{
+	std::cout << "[Sound of a " << this->type << " ]" << std::endl;
+}
+
 Cat &Cat::operator=(__unused const Cat & src)
 {
 	std::cout << "Assigment operator(Cat) is called" << std::endl;
