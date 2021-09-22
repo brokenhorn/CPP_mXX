@@ -47,17 +47,25 @@ int Bureaucrat::getGrade() const
 
 std::ostream & operator<<(std::ostream & o, Bureaucrat const & i)
 {
-	o << i.getName() << ", bureaucrat grade" << i.getGrade();
+	o << i.getName() << ", bureaucrat grade " << i.getGrade();
 	return o;
 }
 
 void Bureaucrat::incrementGrade()
 {
+	if ((this->_grade - 1)< 1)
+		throw _GradeTooHighException();
+	if ((this->_grade - 1) > 150)
+		throw  _GradeTooLowException();
 	this->_grade--;
 }
 
 void Bureaucrat::decrementGrade()
 {
+	if ((this->_grade + 1) < 1)
+		throw _GradeTooHighException();
+	if ((this->_grade + 1) > 150)
+		throw  _GradeTooLowException();
 	this->_grade++;
 }
 

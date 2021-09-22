@@ -11,7 +11,7 @@ int main ( void )
 	Intern bob;
 
 	Form *someform;
-	someform = bob.makeForm("RobotomyRequestForm", "BENDER");
+	someform = bob.makeForm("robotomy request", "BENDER");
 	if (someform != NULL)
 		someform->beSigned(jack);
 	if (someform != NULL)

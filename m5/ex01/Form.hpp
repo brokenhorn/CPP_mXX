@@ -10,7 +10,7 @@
 class Form
 {
 private:
-	std::string _name;
+	const std::string _name;
 	bool _isSig;
 	const int _gradeSig;
 	const int _gradeEx;
@@ -23,6 +23,7 @@ public:
 	Form & operator=(Form const &src);
 
 	std::string getName(void);
+	bool getIsSig(void);
 	int getGradeSig(void);
 	int getGradeSigEx(void);
 

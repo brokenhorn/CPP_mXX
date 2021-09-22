@@ -17,7 +17,7 @@ int is_char(std::string str)
 int is_int(std::string str)
 {
 	int i = 1;
-	if (str[0] == '-' || (str[i] >= '0' && str[i] <= '9'))
+	if (str[0] == '-' || (str[0] >= '0' && str[0] <= '9'))
 	{
 		while (str[i])
 		{
@@ -33,16 +33,16 @@ int is_int(std::string str)
 
 int is_float(std::string str)
 {
-	int i = 1;
+	size_t i = 1;
 	int dot = 0;
 	int f = 0;
 	if (str == "-inff" || str == "+inff" || str == "nanf")
 		return 3;
-	if (str[0] == '-' || (str[i] >= '0' && str[i] <= '9'))
+	if (str[0] == '-' || (str[0] >= '0' && str[0] <= '9'))
 	{
 		while (str[i])
 		{
-			if (!(str[i] >= '0' && str[i] <= '9') || str[i] != '.' || str[i] != 'f')
+			if (!(str[i] >= '0' && str[i] <= '9') && str[i] != '.' && str[i] != 'f')
 				return 0;
 			if (str[i] == '.')
 			{
@@ -53,7 +53,7 @@ int is_float(std::string str)
 			}
 			if (str[i] == 'f')
 			{
-				if (!(str[i - 1] >= '0' && str[i - 1] <= '9') || f == 1 || i != str.size())
+				if (!(str[i - 1] >= '0' && str[i - 1] <= '9') || f == 1 || i != str.length())
 					return 0;
 				else
 					f++;
@@ -64,6 +64,7 @@ int is_float(std::string str)
 			return 0;
 		return 3;
 	}
+	return 0;
 }
 
 int is_double(std::string str)
@@ -72,11 +73,11 @@ int is_double(std::string str)
 	int dot = 0;
 	if (str == "-inf" || str == "+inf" || str == "nan")
 		return 4;
-	if (str[0] == '-' || (str[i] >= '0' && str[i] <= '9'))
+	if (str[0] == '-' || (str[0] >= '0' && str[0] <= '9'))
 	{
 		while (str[i])
 		{
-			if (!(str[i] >= '0' && str[i] <= '9') || str[i] != '.' || str[i] != 'f')
+			if (!(str[i] >= '0' && str[i] <= '9') && str[i] != '.' && str[i] != 'f')
 				return 0;
 			if (str[i] == '.')
 			{
@@ -91,6 +92,7 @@ int is_double(std::string str)
 			return 0;
 		return 4;
 	}
+	return 0;
 }
 
 int define_argv(std::string str)

@@ -129,77 +129,29 @@ cppm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/build
 .PHONY : cppm/fast
 
-m6/ex00/convert.o: m6/ex00/convert.cpp.o
-.PHONY : m6/ex00/convert.o
+m7/ex02/main.o: m7/ex02/main.cpp.o
+.PHONY : m7/ex02/main.o
 
 # target to build an object file
-m6/ex00/convert.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o
-.PHONY : m6/ex00/convert.cpp.o
+m7/ex02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.o
+.PHONY : m7/ex02/main.cpp.o
 
-m6/ex00/convert.i: m6/ex00/convert.cpp.i
-.PHONY : m6/ex00/convert.i
-
-# target to preprocess a source file
-m6/ex00/convert.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i
-.PHONY : m6/ex00/convert.cpp.i
-
-m6/ex00/convert.s: m6/ex00/convert.cpp.s
-.PHONY : m6/ex00/convert.s
-
-# target to generate assembly for a file
-m6/ex00/convert.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s
-.PHONY : m6/ex00/convert.cpp.s
-
-m6/ex00/define_argv.o: m6/ex00/define_argv.cpp.o
-.PHONY : m6/ex00/define_argv.o
-
-# target to build an object file
-m6/ex00/define_argv.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o
-.PHONY : m6/ex00/define_argv.cpp.o
-
-m6/ex00/define_argv.i: m6/ex00/define_argv.cpp.i
-.PHONY : m6/ex00/define_argv.i
+m7/ex02/main.i: m7/ex02/main.cpp.i
+.PHONY : m7/ex02/main.i
 
 # target to preprocess a source file
-m6/ex00/define_argv.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i
-.PHONY : m6/ex00/define_argv.cpp.i
+m7/ex02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.i
+.PHONY : m7/ex02/main.cpp.i
 
-m6/ex00/define_argv.s: m6/ex00/define_argv.cpp.s
-.PHONY : m6/ex00/define_argv.s
-
-# target to generate assembly for a file
-m6/ex00/define_argv.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s
-.PHONY : m6/ex00/define_argv.cpp.s
-
-m6/ex00/main.o: m6/ex00/main.cpp.o
-.PHONY : m6/ex00/main.o
-
-# target to build an object file
-m6/ex00/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/main.cpp.o
-.PHONY : m6/ex00/main.cpp.o
-
-m6/ex00/main.i: m6/ex00/main.cpp.i
-.PHONY : m6/ex00/main.i
-
-# target to preprocess a source file
-m6/ex00/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/main.cpp.i
-.PHONY : m6/ex00/main.cpp.i
-
-m6/ex00/main.s: m6/ex00/main.cpp.s
-.PHONY : m6/ex00/main.s
+m7/ex02/main.s: m7/ex02/main.cpp.s
+.PHONY : m7/ex02/main.s
 
 # target to generate assembly for a file
-m6/ex00/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m6/ex00/main.cpp.s
-.PHONY : m6/ex00/main.cpp.s
+m7/ex02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.s
+.PHONY : m7/ex02/main.cpp.s
 
 # Help Target
 help:
@@ -210,15 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cppm"
-	@echo "... m6/ex00/convert.o"
-	@echo "... m6/ex00/convert.i"
-	@echo "... m6/ex00/convert.s"
-	@echo "... m6/ex00/define_argv.o"
-	@echo "... m6/ex00/define_argv.i"
-	@echo "... m6/ex00/define_argv.s"
-	@echo "... m6/ex00/main.o"
-	@echo "... m6/ex00/main.i"
-	@echo "... m6/ex00/main.s"
+	@echo "... m7/ex02/main.o"
+	@echo "... m7/ex02/main.i"
+	@echo "... m7/ex02/main.s"
 .PHONY : help
 
 

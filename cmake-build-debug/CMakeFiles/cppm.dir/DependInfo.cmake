@@ -8,9 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
-  "/Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o"
-  "/Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m6/ex00/main.cpp.o"
+  "/Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp" "/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles/cppm.dir/m7/ex02/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

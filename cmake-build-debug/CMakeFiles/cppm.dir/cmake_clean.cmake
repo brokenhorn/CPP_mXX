@@ -1,7 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
-  "CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o"
-  "CMakeFiles/cppm.dir/m6/ex00/main.cpp.o"
+  "CMakeFiles/cppm.dir/m7/ex02/main.cpp.o"
   "cppm"
   "cppm.pdb"
 )

@@ -80,13 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp">
 			<Option target="cppm"/>
 		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp">
-			<Option target="cppm"/>
-		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp">
 			<Option target="cppm"/>
 		</Unit>
 		<Unit filename="/Users/vmaricru/Desktop/cppm/CMakeLists.txt">

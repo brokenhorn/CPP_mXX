@@ -4,11 +4,10 @@ CC = clang++
 
 CFLAGS = -Wall -Wextra -Werror
 
-HEADER =
+HEADER = Array.hpp
 
 SRC = 	main.cpp \
-		define_argv.cpp\
-		convert.cpp\
+
 
 SRCS = $(SRC)
 

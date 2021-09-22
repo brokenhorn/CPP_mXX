@@ -51,6 +51,11 @@ int Form::getGradeSigEx()
 	return this->_gradeEx;
 }
 
+bool Form::getIsSig()
+{
+	return this->_isSig ;
+}
+
 void Form::beSigned(Bureaucrat &src)
 {
 	if (src.getGrade() <= this->getGradeSig())

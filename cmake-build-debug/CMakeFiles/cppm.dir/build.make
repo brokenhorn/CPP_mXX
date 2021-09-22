@@ -66,60 +66,30 @@ include CMakeFiles/cppm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cppm.dir/flags.make
 
-CMakeFiles/cppm.dir/m6/ex00/main.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m6/ex00/main.cpp.o: ../m6/ex00/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp
+CMakeFiles/cppm.dir/m7/ex02/main.cpp.o: CMakeFiles/cppm.dir/flags.make
+CMakeFiles/cppm.dir/m7/ex02/main.cpp.o: ../m7/ex02/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppm.dir/m7/ex02/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m7/ex02/main.cpp.o -c /Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp
 
-CMakeFiles/cppm.dir/m6/ex00/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp > CMakeFiles/cppm.dir/m6/ex00/main.cpp.i
+CMakeFiles/cppm.dir/m7/ex02/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m7/ex02/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp > CMakeFiles/cppm.dir/m7/ex02/main.cpp.i
 
-CMakeFiles/cppm.dir/m6/ex00/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp -o CMakeFiles/cppm.dir/m6/ex00/main.cpp.s
-
-CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o: ../m6/ex00/define_argv.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp
-
-CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp > CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.i
-
-CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/define_argv.cpp -o CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.s
-
-CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o: CMakeFiles/cppm.dir/flags.make
-CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o: ../m6/ex00/convert.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o -c /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp
-
-CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp > CMakeFiles/cppm.dir/m6/ex00/convert.cpp.i
-
-CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m6/ex00/convert.cpp -o CMakeFiles/cppm.dir/m6/ex00/convert.cpp.s
+CMakeFiles/cppm.dir/m7/ex02/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppm.dir/m7/ex02/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp -o CMakeFiles/cppm.dir/m7/ex02/main.cpp.s
 
 # Object files for target cppm
 cppm_OBJECTS = \
-"CMakeFiles/cppm.dir/m6/ex00/main.cpp.o" \
-"CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o" \
-"CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o"
+"CMakeFiles/cppm.dir/m7/ex02/main.cpp.o"
 
 # External object files for target cppm
 cppm_EXTERNAL_OBJECTS =
 
-cppm: CMakeFiles/cppm.dir/m6/ex00/main.cpp.o
-cppm: CMakeFiles/cppm.dir/m6/ex00/define_argv.cpp.o
-cppm: CMakeFiles/cppm.dir/m6/ex00/convert.cpp.o
+cppm: CMakeFiles/cppm.dir/m7/ex02/main.cpp.o
 cppm: CMakeFiles/cppm.dir/build.make
 cppm: CMakeFiles/cppm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable cppm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vmaricru/Desktop/cppm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cppm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cppm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -3,4 +3,5 @@ project(cppm)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cppm m6/ex00/main.cpp m6/ex00/define_argv.cpp m6/ex00/convert.cpp)
+add_executable(cppm
+        m7/ex02/Array.hpp m7/ex02/main.cpp)

@@ -4,11 +4,10 @@ CC = clang++
 
 CFLAGS = -Wall -Wextra -Werror
 
-HEADER =
+HEADER = Data.hpp
 
 SRC = 	main.cpp \
-		define_argv.cpp\
-		convert.cpp\
+		Data.cpp\
 
 SRCS = $(SRC)
 

@@ -6,21 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/vmaricru/Desktop/cppm/m6/ex00/main.cpp
+/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp
 string
--
+/Users/vmaricru/Desktop/cppm/m7/ex02/string
 iostream
--
-climits
--
-iomanip
--
-cerrno
--
-cfloat
--
-cstdlib
--
-math.h
--
+/Users/vmaricru/Desktop/cppm/m7/ex02/iostream
+
+/Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp
+Array.hpp
+/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp
 

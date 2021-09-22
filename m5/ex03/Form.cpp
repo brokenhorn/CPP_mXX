@@ -68,8 +68,6 @@ bool Form::getIsSig() const
 
 void Form::beSigned(Bureaucrat  &src)
 {
-	if (this == NULL)
-		return;
 	if (this->_isSig != true)
 	{
 		if (src.getGrade() <= this->getGradeSig())

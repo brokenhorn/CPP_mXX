@@ -4,11 +4,10 @@ CC = clang++
 
 CFLAGS = -Wall -Wextra -Werror
 
-HEADER =
+HEADER = iter.hpp
 
 SRC = 	main.cpp \
-		define_argv.cpp\
-		convert.cpp\
+
 
 SRCS = $(SRC)
 

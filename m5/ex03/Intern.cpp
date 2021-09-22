@@ -34,9 +34,8 @@ Form* Intern::makeForm(std::string request, std::string target)
 	int i = 0;
 	while (i < 3)
 	{
-		tmp = forms[i]->getF();
-		cmp = request[i];
-		if (tmp == cmp)
+		cmp = requests[i];
+		if (cmp == 	request)
 		{
 			std::cout << "Intern creates " << target << std::endl;
 			clone = forms[i]->cmp_f(target);
