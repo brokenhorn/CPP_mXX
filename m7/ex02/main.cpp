@@ -17,7 +17,7 @@ int main()
 	try
 	{
 		numbers[2] = 2;
-		numbers[-1] = -1;
+		numbers[6] = -1;
 	}
 	catch(const std::exception& e)
 	{

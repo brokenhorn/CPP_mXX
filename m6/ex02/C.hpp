@@ -7,7 +7,7 @@
 
 #include "Base.hpp"
 
-class C: public virtual Base{
+class C: public  Base{
 
 };
 

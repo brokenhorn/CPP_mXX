@@ -80,10 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.cpp">
 			<Option target="cppm"/>
 		</Unit>
-		<Unit filename="/Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp">
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.hpp">
+			<Option target="cppm"/>
+		</Unit>
+		<Unit filename="/Users/vmaricru/Desktop/cppm/m8/ex02/main.cpp">
 			<Option target="cppm"/>
 		</Unit>
 		<Unit filename="/Users/vmaricru/Desktop/cppm/CMakeLists.txt">

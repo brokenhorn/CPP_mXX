@@ -8,7 +8,7 @@
 
 Base * generate(void)
 {
-	Base *tmp;
+	srand(time(NULL));
 	int rmd = rand() % 3;
 
 	switch (rmd)
@@ -58,7 +58,7 @@ void identify(Base& p)
 {
 	try
 	{
-		A& zero = dynamic_cast<A&>(p);
+		__unused A& zero = dynamic_cast<A&>(p);
 		std::cout << "identify(Base& p) returns A class" << std::endl;
 		return ;
 	}
@@ -67,7 +67,7 @@ void identify(Base& p)
 
 	try
 	{
-		B& first = dynamic_cast<B&>(p);
+		__unused B& first = dynamic_cast<B&>(p);
 		std::cout << "identify(Base& p) returns B class" << std::endl;
 		return ;
 	}
@@ -76,7 +76,7 @@ void identify(Base& p)
 
 	try
 	{
-		C& second = dynamic_cast<C&>(p);
+		__unused C& second = dynamic_cast<C&>(p);
 		std::cout << "identify(Base& p) returns C class" << std::endl;
 		return ;
 	}

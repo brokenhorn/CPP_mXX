@@ -4,16 +4,10 @@ CC = clang++
 
 CFLAGS = -Wall -Wextra -Werror
 
-HEADER = A.hpp\
-		B.hpp\
-		C.hpp\
-		Base.cpp\
+HEADER = easyfind.hpp
 
 SRC = 	main.cpp \
-		A.cpp\
-        B.cpp\
-        C.cpp\
-        Base.cpp\
+
 
 SRCS = $(SRC)
 

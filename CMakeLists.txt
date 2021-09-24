@@ -4,4 +4,4 @@ project(cppm)
 set(CMAKE_CXX_STANDARD 98)
 
 add_executable(cppm
-        m7/ex02/Array.hpp m7/ex02/main.cpp)
+       m8/ex02/main.cpp m8/ex02/MutantStack.cpp m8/ex02/MutantStack.hpp)

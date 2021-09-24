@@ -6,13 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp
-string
-/Users/vmaricru/Desktop/cppm/m7/ex02/string
-iostream
-/Users/vmaricru/Desktop/cppm/m7/ex02/iostream
+/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.cpp
+MutantStack.hpp
+/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.hpp
 
-/Users/vmaricru/Desktop/cppm/m7/ex02/main.cpp
-Array.hpp
-/Users/vmaricru/Desktop/cppm/m7/ex02/Array.hpp
+/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.hpp
+string
+/Users/vmaricru/Desktop/cppm/m8/ex02/string
+iostream
+/Users/vmaricru/Desktop/cppm/m8/ex02/iostream
+stack
+/Users/vmaricru/Desktop/cppm/m8/ex02/stack
+algorithm
+/Users/vmaricru/Desktop/cppm/m8/ex02/algorithm
+
+/Users/vmaricru/Desktop/cppm/m8/ex02/main.cpp
+MutantStack.hpp
+/Users/vmaricru/Desktop/cppm/m8/ex02/MutantStack.hpp
 

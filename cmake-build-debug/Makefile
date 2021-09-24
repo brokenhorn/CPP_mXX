@@ -129,29 +129,53 @@ cppm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/build
 .PHONY : cppm/fast
 
-m7/ex02/main.o: m7/ex02/main.cpp.o
-.PHONY : m7/ex02/main.o
+m8/ex02/MutantStack.o: m8/ex02/MutantStack.cpp.o
+.PHONY : m8/ex02/MutantStack.o
 
 # target to build an object file
-m7/ex02/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.o
-.PHONY : m7/ex02/main.cpp.o
+m8/ex02/MutantStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/MutantStack.cpp.o
+.PHONY : m8/ex02/MutantStack.cpp.o
 
-m7/ex02/main.i: m7/ex02/main.cpp.i
-.PHONY : m7/ex02/main.i
+m8/ex02/MutantStack.i: m8/ex02/MutantStack.cpp.i
+.PHONY : m8/ex02/MutantStack.i
 
 # target to preprocess a source file
-m7/ex02/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.i
-.PHONY : m7/ex02/main.cpp.i
+m8/ex02/MutantStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/MutantStack.cpp.i
+.PHONY : m8/ex02/MutantStack.cpp.i
 
-m7/ex02/main.s: m7/ex02/main.cpp.s
-.PHONY : m7/ex02/main.s
+m8/ex02/MutantStack.s: m8/ex02/MutantStack.cpp.s
+.PHONY : m8/ex02/MutantStack.s
 
 # target to generate assembly for a file
-m7/ex02/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m7/ex02/main.cpp.s
-.PHONY : m7/ex02/main.cpp.s
+m8/ex02/MutantStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/MutantStack.cpp.s
+.PHONY : m8/ex02/MutantStack.cpp.s
+
+m8/ex02/main.o: m8/ex02/main.cpp.o
+.PHONY : m8/ex02/main.o
+
+# target to build an object file
+m8/ex02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/main.cpp.o
+.PHONY : m8/ex02/main.cpp.o
+
+m8/ex02/main.i: m8/ex02/main.cpp.i
+.PHONY : m8/ex02/main.i
+
+# target to preprocess a source file
+m8/ex02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/main.cpp.i
+.PHONY : m8/ex02/main.cpp.i
+
+m8/ex02/main.s: m8/ex02/main.cpp.s
+.PHONY : m8/ex02/main.s
+
+# target to generate assembly for a file
+m8/ex02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cppm.dir/build.make CMakeFiles/cppm.dir/m8/ex02/main.cpp.s
+.PHONY : m8/ex02/main.cpp.s
 
 # Help Target
 help:
@@ -162,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cppm"
-	@echo "... m7/ex02/main.o"
-	@echo "... m7/ex02/main.i"
-	@echo "... m7/ex02/main.s"
+	@echo "... m8/ex02/MutantStack.o"
+	@echo "... m8/ex02/MutantStack.i"
+	@echo "... m8/ex02/MutantStack.s"
+	@echo "... m8/ex02/main.o"
+	@echo "... m8/ex02/main.i"
+	@echo "... m8/ex02/main.s"
 .PHONY : help
 
 
